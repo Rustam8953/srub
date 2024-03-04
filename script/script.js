@@ -25,6 +25,6 @@ function mobileBanner() {
     if (screen.width < 800) {
         banner.setAttribute('src', './img/banner/mobile.png')
     } else {
-        banner.setAttribute('src', './img/banner/9 каркас_1 1.png')
+        banner.setAttribute('src', './img/banner/banner.png')
     }
 }
